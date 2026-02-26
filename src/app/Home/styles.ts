@@ -14,4 +14,7 @@ export const styles = StyleSheet.create({
     height: 34,
     width: 134,
   },
+  placeholder: {
+    color: '#000000',
+  },
 });
